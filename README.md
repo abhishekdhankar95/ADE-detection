@@ -1,4 +1,4 @@
 # ADE-detection
 
 Currently only includes system prompts. 
-Code will become available after necessary sensitive information has been removed from the code.
+This repository is being prepared for public release. Code will be made available here once it has been reviewed and cleared by MCHP's privacy process.
